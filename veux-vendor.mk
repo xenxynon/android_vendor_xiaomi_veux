@@ -707,7 +707,6 @@ PRODUCT_PACKAGES += \
     com.vidhance.node.processing \
     libdepthmapwrapper \
     libdepthmapwrapper_secure \
-    com.dsi.ant@1.0 \
     com.qti.chiusecaseselector \
     com.qti.feature2.anchorsync \
     com.qti.feature2.demux \
